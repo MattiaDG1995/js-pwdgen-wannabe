@@ -1,0 +1,9 @@
+#password{
+    color: rgb(233, 10, 10);
+    font-size: 3rem;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+#password:hover{
+    transform: rotate(-180deg);
+}
